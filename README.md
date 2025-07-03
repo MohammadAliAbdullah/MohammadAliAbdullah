@@ -36,12 +36,12 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadAliAbdullah&show_icons=true&theme=dark" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadAliAbdullah&theme=dark" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadAliAbdullah&show_icons=true&theme=dark&v=1" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadAliAbdullah&theme=dark&v=1" height="150" alt="GitHub Streak" />
 </p>
+
 
 ---
 
